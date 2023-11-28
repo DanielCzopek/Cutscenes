@@ -197,6 +197,7 @@ MonoBehaviour:
   director:
     exposedName: 55577e731ec479f4096e657841ca1fa0
     defaultValue: {fileID: 0}
+  m_Timeline: {fileID: 11400000, guid: 36478a23a192901429c5078bc624b87d, type: 2}
 --- !u!114 &7139502251938241555
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -212,3 +213,4 @@ MonoBehaviour:
   director:
     exposedName: 797ba5f6402a8574e86495fd84f26d2a
     defaultValue: {fileID: 0}
+  m_Timeline: {fileID: 11400000, guid: ebacc70e5b897a945a162f34b33d9880, type: 2}
