@@ -115,17 +115,17 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {x: 1, y: 0.64320695, z: 0.5911983, w: -0.3868471}
   shadowsStart:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 0.28
   shadowsEnd:
     m_OverrideState: 0
-    m_Value: 0.3
+    m_Value: 0.28
   highlightsStart:
     m_OverrideState: 0
-    m_Value: 0.55
+    m_Value: 0
   highlightsEnd:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 2.45
 --- !u!114 &3421550297126078523
 MonoBehaviour:
   m_ObjectHideFlags: 3
