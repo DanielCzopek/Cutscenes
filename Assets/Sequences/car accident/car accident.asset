@@ -27,15 +27,16 @@ MonoBehaviour:
         - rid: 8693874134125903877
         - rid: 8693874134125903880
         - rid: 8693874134125903882
+        - rid: -2
         m_AvailableIndices:
-          rid: -2
+          rid: 8693874321745510402
     - rid: 8693874134125903877
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
         m_Name: car accident
         m_Fps: 60
         m_Start: 0
-        m_Duration: 2.5166666666666666
+        m_Duration: 4.516666666667
         m_Parent: -1
         m_Children: 0100000002000000
         m_Timeline: {fileID: 11400000, guid: 9629850b90e4f6d4bb09b532c1bb89c9, type: 2}
@@ -68,3 +69,5 @@ MonoBehaviour:
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 2983422704737077829, guid: 9629850b90e4f6d4bb09b532c1bb89c9, type: 2}
+    - rid: 8693874321745510402
+      type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}

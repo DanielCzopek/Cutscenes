@@ -94,7 +94,7 @@ MonoBehaviour:
     m_Start: 2.516666666667
     m_ClipIn: 0
     m_Asset: {fileID: 2983422704737077829}
-    m_Duration: 2
+    m_Duration: 4.999999999999666
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1089538707467343853}
     m_EaseInDuration: 0
@@ -320,7 +320,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera
+    m_DisplayName: CCTV
   - m_Version: 1
     m_Start: 2.516666666667
     m_ClipIn: 0
@@ -389,7 +389,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera (1)
+    m_DisplayName: Driver view
   m_Markers:
     m_Objects: []
 --- !u!114 &4759978117329663708
