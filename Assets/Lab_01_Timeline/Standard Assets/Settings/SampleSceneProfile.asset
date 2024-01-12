@@ -92,6 +92,7 @@ MonoBehaviour:
   - {fileID: -7893295128165547882}
   - {fileID: -7011558710299706105}
   - {fileID: 2379757513429612443}
+  - {fileID: 6233097859804242498}
 --- !u!114 &849379129802519247
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -147,13 +148,13 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.8776062, z: 0.71580803, w: 0}
+    m_Value: {x: 0.8509652, y: 1, z: 0.84360206, w: 0.22974607}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.92934203, y: 0.96032524, z: 1, w: 0}
+    m_Value: {x: 1, y: 0.9631514, z: 0.98794055, w: 0.02418379}
   highlights:
-    m_OverrideState: 0
-    m_Value: {x: 0.122364044, y: 1, z: 0, w: 0}
+    m_OverrideState: 1
+    m_Value: {x: 0.22860944, y: 1, z: 0.13355881, w: 1}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
@@ -166,3 +167,25 @@ MonoBehaviour:
   highlightsEnd:
     m_OverrideState: 0
     m_Value: 1
+--- !u!114 &6233097859804242498
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+  m_Name: LiftGammaGain
+  m_EditorClassIdentifier: 
+  active: 1
+  lift:
+    m_OverrideState: 1
+    m_Value: {x: 0.8878156, y: 0.94377923, z: 1, w: -0.048367593}
+  gamma:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 1, z: 1, w: 0}
+  gain:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 1, z: 1, w: 0.3990326}
